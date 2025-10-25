@@ -21,5 +21,5 @@ This is a simple web-based **Online Quiz Application** where users can take quiz
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/kiru-808/NM-project.git
+   git clone https://github.com/kiru-808/NM-project-.git
    cd online-quiz-application
